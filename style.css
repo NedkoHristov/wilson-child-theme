@@ -1,0 +1,16 @@
+/*
+Template: wilson
+Text Domain: wilson-child-theme
+Version: 0.1
+Description: Wilson is a clean, simple and responsive theme for personal sites and blogs. Features responsive design, retina-ready assets, custom accent color support, custom logo support, custom widgets for video and Flickr embeds, page
+Tags: blog, two-columns, left-sidebar, custom-colors, custom-header, custom-menu, editor-style, featured-images, footer-widgets, post-formats, sticky-post, theme-options, threaded-comments, translation-ready
+Author: Anders Norén
+Author URI: http://www.andersnoren.se
+Theme URI: http://www.andersnoren.se/teman/wilson-wordpress-theme/
+License: GNU General Public License version 2.0
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Note: Please note that you have to have the installed version of wilson before applying the child theme. Template folder should be named wilson. If you decide to rename is, please change the value of @import url on the next line.
+
+*/
+
+@import url("../wilson/style.css");
